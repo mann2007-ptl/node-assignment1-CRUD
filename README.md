@@ -28,6 +28,7 @@ The goal of this assignment is to:
 
 ## 📁 Folder Structure
 
+```
 Assignment-1/
 │
 ├── node_modules/
@@ -35,8 +36,7 @@ Assignment-1/
 ├── index.js
 ├── package.json
 └── package-lock.json
-
----
+```
 
 ## ▶️ How to Run the Project Locally
 
