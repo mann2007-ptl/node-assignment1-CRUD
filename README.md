@@ -127,4 +127,4 @@ https://documenter.getpostman.com/view/50840766/2sBXcEmgCf
 
 ## 👨‍💻 Author
 
-Your Name
+Mann Patel
